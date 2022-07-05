@@ -1,0 +1,166 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            2f:00:fc:d8:84:43:34:4b:12:d0:d5:9c:29:0f:9c:f0
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = US, O = Google Trust Services LLC, CN = GTS CA 1C3
+        Validity
+            Not Before: May  9 08:32:32 2022 GMT
+            Not After : Aug  1 08:32:31 2022 GMT
+        Subject: CN = *.google.com
+        Subject Public Key Info:
+            Public Key Algorithm: id-ecPublicKey
+                Public-Key: (256 bit)
+                pub:
+                    04:76:eb:7e:61:0a:c4:8c:a4:e6:30:94:73:14:13:
+                    4a:d5:2e:83:9e:4f:6c:58:61:04:e0:9a:06:a0:e5:
+                    e3:68:cd:af:c4:38:33:f5:fe:3a:0d:92:3a:4e:c5:
+                    91:d9:d2:02:81:56:5f:7a:6c:3c:a1:be:87:38:0a:
+                    70:92:7c:c0:37
+                ASN1 OID: prime256v1
+                NIST CURVE: P-256
+        X509v3 extensions:
+            X509v3 Key Usage: critical
+                Digital Signature
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                8A:B1:6A:F1:A8:0F:BD:FB:B7:01:3D:F5:51:41:FA:33:18:64:02:FE
+            X509v3 Authority Key Identifier: 
+                keyid:8A:74:7F:AF:85:CD:EE:95:CD:3D:9C:D0:E2:46:14:F3:71:35:1D:27
+
+            Authority Information Access: 
+                OCSP - URI:http://ocsp.pki.goog/gts1c3
+                CA Issuers - URI:http://pki.goog/repo/certs/gts1c3.der
+
+            X509v3 Subject Alternative Name: 
+                DNS:*.google.com, DNS:*.appengine.google.com, DNS:*.bdn.dev, DNS:*.cloud.google.com, DNS:*.crowdsource.google.com, DNS:*.datacompute.google.com, DNS:*.google.ca, DNS:*.google.cl, DNS:*.google.co.in, DNS:*.google.co.jp, DNS:*.google.co.uk, DNS:*.google.com.ar, DNS:*.google.com.au, DNS:*.google.com.br, DNS:*.google.com.co, DNS:*.google.com.mx, DNS:*.google.com.tr, DNS:*.google.com.vn, DNS:*.google.de, DNS:*.google.es, DNS:*.google.fr, DNS:*.google.hu, DNS:*.google.it, DNS:*.google.nl, DNS:*.google.pl, DNS:*.google.pt, DNS:*.googleadapis.com, DNS:*.googleapis.cn, DNS:*.googlevideo.com, DNS:*.gstatic.cn, DNS:*.gstatic-cn.com, DNS:googlecnapps.cn, DNS:*.googlecnapps.cn, DNS:googleapps-cn.com, DNS:*.googleapps-cn.com, DNS:gkecnapps.cn, DNS:*.gkecnapps.cn, DNS:googledownloads.cn, DNS:*.googledownloads.cn, DNS:recaptcha.net.cn, DNS:*.recaptcha.net.cn, DNS:recaptcha-cn.net, DNS:*.recaptcha-cn.net, DNS:widevine.cn, DNS:*.widevine.cn, DNS:ampproject.org.cn, DNS:*.ampproject.org.cn, DNS:ampproject.net.cn, DNS:*.ampproject.net.cn, DNS:google-analytics-cn.com, DNS:*.google-analytics-cn.com, DNS:googleadservices-cn.com, DNS:*.googleadservices-cn.com, DNS:googlevads-cn.com, DNS:*.googlevads-cn.com, DNS:googleapis-cn.com, DNS:*.googleapis-cn.com, DNS:googleoptimize-cn.com, DNS:*.googleoptimize-cn.com, DNS:doubleclick-cn.net, DNS:*.doubleclick-cn.net, DNS:*.fls.doubleclick-cn.net, DNS:*.g.doubleclick-cn.net, DNS:doubleclick.cn, DNS:*.doubleclick.cn, DNS:*.fls.doubleclick.cn, DNS:*.g.doubleclick.cn, DNS:dartsearch-cn.net, DNS:*.dartsearch-cn.net, DNS:googletraveladservices-cn.com, DNS:*.googletraveladservices-cn.com, DNS:googletagservices-cn.com, DNS:*.googletagservices-cn.com, DNS:googletagmanager-cn.com, DNS:*.googletagmanager-cn.com, DNS:googlesyndication-cn.com, DNS:*.googlesyndication-cn.com, DNS:*.safeframe.googlesyndication-cn.com, DNS:app-measurement-cn.com, DNS:*.app-measurement-cn.com, DNS:gvt1-cn.com, DNS:*.gvt1-cn.com, DNS:gvt2-cn.com, DNS:*.gvt2-cn.com, DNS:2mdn-cn.net, DNS:*.2mdn-cn.net, DNS:googleflights-cn.net, DNS:*.googleflights-cn.net, DNS:admob-cn.com, DNS:*.admob-cn.com, DNS:*.gstatic.com, DNS:*.metric.gstatic.com, DNS:*.gvt1.com, DNS:*.gcpcdn.gvt1.com, DNS:*.gvt2.com, DNS:*.gcp.gvt2.com, DNS:*.url.google.com, DNS:*.youtube-nocookie.com, DNS:*.ytimg.com, DNS:android.com, DNS:*.android.com, DNS:*.flash.android.com, DNS:g.cn, DNS:*.g.cn, DNS:g.co, DNS:*.g.co, DNS:goo.gl, DNS:www.goo.gl, DNS:google-analytics.com, DNS:*.google-analytics.com, DNS:google.com, DNS:googlecommerce.com, DNS:*.googlecommerce.com, DNS:ggpht.cn, DNS:*.ggpht.cn, DNS:urchin.com, DNS:*.urchin.com, DNS:youtu.be, DNS:youtube.com, DNS:*.youtube.com, DNS:youtubeeducation.com, DNS:*.youtubeeducation.com, DNS:youtubekids.com, DNS:*.youtubekids.com, DNS:yt.be, DNS:*.yt.be, DNS:android.clients.google.com, DNS:developer.android.google.cn, DNS:developers.android.google.cn, DNS:source.android.google.cn
+            X509v3 Certificate Policies: 
+                Policy: 2.23.140.1.2.1
+                Policy: 1.3.6.1.4.1.11129.2.5.3
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crls.pki.goog/gts1c3/QOvJ0N1sT2A.crl
+
+            CT Precertificate SCTs: 
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : 46:A5:55:EB:75:FA:91:20:30:B5:A2:89:69:F4:F3:7D:
+                                11:2C:41:74:BE:FD:49:B8:85:AB:F2:FC:70:FE:6D:47
+                    Timestamp : May  9 09:32:39.621 2022 GMT
+                    Extensions: none
+                    Signature : ecdsa-with-SHA256
+                                30:44:02:20:7E:BE:FB:A1:68:DA:CA:60:C1:C4:8D:CB:
+                                9B:1E:42:E0:4B:B2:64:98:80:91:A2:41:28:9D:B4:F9:
+                                D8:01:82:FA:02:20:48:9D:3F:AF:BF:6E:92:AD:38:4A:
+                                9E:B3:E7:4F:AD:00:B9:4E:15:DF:1B:72:37:A9:A5:98:
+                                B9:4D:0D:93:ED:B8
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : 51:A3:B0:F5:FD:01:79:9C:56:6D:B8:37:78:8F:0C:A4:
+                                7A:CC:1B:27:CB:F7:9E:88:42:9A:0D:FE:D4:8B:05:E5
+                    Timestamp : May  9 09:32:39.088 2022 GMT
+                    Extensions: none
+                    Signature : ecdsa-with-SHA256
+                                30:46:02:21:00:A7:AB:42:D4:90:DF:C0:6E:AA:A7:64:
+                                D4:91:3C:6F:8E:9E:83:FA:20:4A:9D:1D:E4:8F:20:AD:
+                                FC:81:EF:5B:73:02:21:00:DB:BB:98:78:31:D8:E3:7B:
+                                C8:FB:D8:0C:A8:9B:80:A4:20:44:F2:39:49:70:37:65:
+                                3C:9D:9C:EC:14:3B:DB:58
+    Signature Algorithm: sha256WithRSAEncryption
+         98:36:6b:7d:b7:c3:85:dd:41:4d:73:b8:78:46:ed:6d:3a:60:
+         3c:0a:1a:63:49:28:89:44:cf:00:04:32:ee:22:46:08:a0:08:
+         92:51:8c:65:bd:6f:c4:19:f4:fa:27:4a:c1:7d:32:44:10:9a:
+         40:83:8d:78:70:2b:f6:42:0f:79:7f:27:85:29:b6:3b:8e:0c:
+         e3:8b:eb:fa:b7:b1:20:75:81:6f:67:69:ca:ef:e7:6e:96:79:
+         fd:13:62:b9:9b:79:8f:6b:08:ab:0f:5c:36:c2:4a:5e:b0:81:
+         10:cb:e2:d3:e4:fc:a9:bf:2c:8b:0f:fd:d0:87:d3:76:5f:4f:
+         4b:58:bd:6b:32:74:2f:ea:52:71:89:0c:be:df:1a:32:b0:cd:
+         27:c2:e0:5d:01:46:3a:aa:cc:81:ba:af:3b:9e:8d:b2:bf:9b:
+         0c:68:d8:d2:32:18:62:d9:de:96:0e:a9:8f:5e:ff:e3:59:f0:
+         4a:67:11:9e:c1:1e:fb:9e:d7:9c:a7:f7:5e:63:68:f1:90:d7:
+         87:82:45:9e:50:fb:76:4f:49:9c:64:1e:51:8b:dd:8f:d7:e2:
+         93:f2:24:bc:de:eb:21:5e:3a:73:ec:b1:98:c1:95:82:de:e0:
+         7e:7c:f0:1b:da:ed:a9:55:6c:da:67:94:a1:4b:51:5a:4d:56:
+         95:fe:b7:52
+-----BEGIN CERTIFICATE-----
+MIIN1jCCDL6gAwIBAgIQLwD82IRDNEsS0NWcKQ+c8DANBgkqhkiG9w0BAQsFADBG
+MQswCQYDVQQGEwJVUzEiMCAGA1UEChMZR29vZ2xlIFRydXN0IFNlcnZpY2VzIExM
+QzETMBEGA1UEAxMKR1RTIENBIDFDMzAeFw0yMjA1MDkwODMyMzJaFw0yMjA4MDEw
+ODMyMzFaMBcxFTATBgNVBAMMDCouZ29vZ2xlLmNvbTBZMBMGByqGSM49AgEGCCqG
+SM49AwEHA0IABHbrfmEKxIyk5jCUcxQTStUug55PbFhhBOCaBqDl42jNr8Q4M/X+
+Og2SOk7FkdnSAoFWX3psPKG+hzgKcJJ8wDejggu4MIILtDAOBgNVHQ8BAf8EBAMC
+B4AwEwYDVR0lBAwwCgYIKwYBBQUHAwEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQU
+irFq8agPvfu3AT31UUH6MxhkAv4wHwYDVR0jBBgwFoAUinR/r4XN7pXNPZzQ4kYU
+83E1HScwagYIKwYBBQUHAQEEXjBcMCcGCCsGAQUFBzABhhtodHRwOi8vb2NzcC5w
+a2kuZ29vZy9ndHMxYzMwMQYIKwYBBQUHMAKGJWh0dHA6Ly9wa2kuZ29vZy9yZXBv
+L2NlcnRzL2d0czFjMy5kZXIwggloBgNVHREEgglfMIIJW4IMKi5nb29nbGUuY29t
+ghYqLmFwcGVuZ2luZS5nb29nbGUuY29tggkqLmJkbi5kZXaCEiouY2xvdWQuZ29v
+Z2xlLmNvbYIYKi5jcm93ZHNvdXJjZS5nb29nbGUuY29tghgqLmRhdGFjb21wdXRl
+Lmdvb2dsZS5jb22CCyouZ29vZ2xlLmNhggsqLmdvb2dsZS5jbIIOKi5nb29nbGUu
+Y28uaW6CDiouZ29vZ2xlLmNvLmpwgg4qLmdvb2dsZS5jby51a4IPKi5nb29nbGUu
+Y29tLmFygg8qLmdvb2dsZS5jb20uYXWCDyouZ29vZ2xlLmNvbS5icoIPKi5nb29n
+bGUuY29tLmNvgg8qLmdvb2dsZS5jb20ubXiCDyouZ29vZ2xlLmNvbS50coIPKi5n
+b29nbGUuY29tLnZuggsqLmdvb2dsZS5kZYILKi5nb29nbGUuZXOCCyouZ29vZ2xl
+LmZyggsqLmdvb2dsZS5odYILKi5nb29nbGUuaXSCCyouZ29vZ2xlLm5sggsqLmdv
+b2dsZS5wbIILKi5nb29nbGUucHSCEiouZ29vZ2xlYWRhcGlzLmNvbYIPKi5nb29n
+bGVhcGlzLmNughEqLmdvb2dsZXZpZGVvLmNvbYIMKi5nc3RhdGljLmNughAqLmdz
+dGF0aWMtY24uY29tgg9nb29nbGVjbmFwcHMuY26CESouZ29vZ2xlY25hcHBzLmNu
+ghFnb29nbGVhcHBzLWNuLmNvbYITKi5nb29nbGVhcHBzLWNuLmNvbYIMZ2tlY25h
+cHBzLmNugg4qLmdrZWNuYXBwcy5jboISZ29vZ2xlZG93bmxvYWRzLmNughQqLmdv
+b2dsZWRvd25sb2Fkcy5jboIQcmVjYXB0Y2hhLm5ldC5jboISKi5yZWNhcHRjaGEu
+bmV0LmNughByZWNhcHRjaGEtY24ubmV0ghIqLnJlY2FwdGNoYS1jbi5uZXSCC3dp
+ZGV2aW5lLmNugg0qLndpZGV2aW5lLmNughFhbXBwcm9qZWN0Lm9yZy5jboITKi5h
+bXBwcm9qZWN0Lm9yZy5jboIRYW1wcHJvamVjdC5uZXQuY26CEyouYW1wcHJvamVj
+dC5uZXQuY26CF2dvb2dsZS1hbmFseXRpY3MtY24uY29tghkqLmdvb2dsZS1hbmFs
+eXRpY3MtY24uY29tghdnb29nbGVhZHNlcnZpY2VzLWNuLmNvbYIZKi5nb29nbGVh
+ZHNlcnZpY2VzLWNuLmNvbYIRZ29vZ2xldmFkcy1jbi5jb22CEyouZ29vZ2xldmFk
+cy1jbi5jb22CEWdvb2dsZWFwaXMtY24uY29tghMqLmdvb2dsZWFwaXMtY24uY29t
+ghVnb29nbGVvcHRpbWl6ZS1jbi5jb22CFyouZ29vZ2xlb3B0aW1pemUtY24uY29t
+ghJkb3VibGVjbGljay1jbi5uZXSCFCouZG91YmxlY2xpY2stY24ubmV0ghgqLmZs
+cy5kb3VibGVjbGljay1jbi5uZXSCFiouZy5kb3VibGVjbGljay1jbi5uZXSCDmRv
+dWJsZWNsaWNrLmNughAqLmRvdWJsZWNsaWNrLmNughQqLmZscy5kb3VibGVjbGlj
+ay5jboISKi5nLmRvdWJsZWNsaWNrLmNughFkYXJ0c2VhcmNoLWNuLm5ldIITKi5k
+YXJ0c2VhcmNoLWNuLm5ldIIdZ29vZ2xldHJhdmVsYWRzZXJ2aWNlcy1jbi5jb22C
+HyouZ29vZ2xldHJhdmVsYWRzZXJ2aWNlcy1jbi5jb22CGGdvb2dsZXRhZ3NlcnZp
+Y2VzLWNuLmNvbYIaKi5nb29nbGV0YWdzZXJ2aWNlcy1jbi5jb22CF2dvb2dsZXRh
+Z21hbmFnZXItY24uY29tghkqLmdvb2dsZXRhZ21hbmFnZXItY24uY29tghhnb29n
+bGVzeW5kaWNhdGlvbi1jbi5jb22CGiouZ29vZ2xlc3luZGljYXRpb24tY24uY29t
+giQqLnNhZmVmcmFtZS5nb29nbGVzeW5kaWNhdGlvbi1jbi5jb22CFmFwcC1tZWFz
+dXJlbWVudC1jbi5jb22CGCouYXBwLW1lYXN1cmVtZW50LWNuLmNvbYILZ3Z0MS1j
+bi5jb22CDSouZ3Z0MS1jbi5jb22CC2d2dDItY24uY29tgg0qLmd2dDItY24uY29t
+ggsybWRuLWNuLm5ldIINKi4ybWRuLWNuLm5ldIIUZ29vZ2xlZmxpZ2h0cy1jbi5u
+ZXSCFiouZ29vZ2xlZmxpZ2h0cy1jbi5uZXSCDGFkbW9iLWNuLmNvbYIOKi5hZG1v
+Yi1jbi5jb22CDSouZ3N0YXRpYy5jb22CFCoubWV0cmljLmdzdGF0aWMuY29tggoq
+Lmd2dDEuY29tghEqLmdjcGNkbi5ndnQxLmNvbYIKKi5ndnQyLmNvbYIOKi5nY3Au
+Z3Z0Mi5jb22CECoudXJsLmdvb2dsZS5jb22CFioueW91dHViZS1ub2Nvb2tpZS5j
+b22CCyoueXRpbWcuY29tggthbmRyb2lkLmNvbYINKi5hbmRyb2lkLmNvbYITKi5m
+bGFzaC5hbmRyb2lkLmNvbYIEZy5jboIGKi5nLmNuggRnLmNvggYqLmcuY2+CBmdv
+by5nbIIKd3d3Lmdvby5nbIIUZ29vZ2xlLWFuYWx5dGljcy5jb22CFiouZ29vZ2xl
+LWFuYWx5dGljcy5jb22CCmdvb2dsZS5jb22CEmdvb2dsZWNvbW1lcmNlLmNvbYIU
+Ki5nb29nbGVjb21tZXJjZS5jb22CCGdncGh0LmNuggoqLmdncGh0LmNuggp1cmNo
+aW4uY29tggwqLnVyY2hpbi5jb22CCHlvdXR1LmJlggt5b3V0dWJlLmNvbYINKi55
+b3V0dWJlLmNvbYIUeW91dHViZWVkdWNhdGlvbi5jb22CFioueW91dHViZWVkdWNh
+dGlvbi5jb22CD3lvdXR1YmVraWRzLmNvbYIRKi55b3V0dWJla2lkcy5jb22CBXl0
+LmJlggcqLnl0LmJlghphbmRyb2lkLmNsaWVudHMuZ29vZ2xlLmNvbYIbZGV2ZWxv
+cGVyLmFuZHJvaWQuZ29vZ2xlLmNughxkZXZlbG9wZXJzLmFuZHJvaWQuZ29vZ2xl
+LmNughhzb3VyY2UuYW5kcm9pZC5nb29nbGUuY24wIQYDVR0gBBowGDAIBgZngQwB
+AgEwDAYKKwYBBAHWeQIFAzA8BgNVHR8ENTAzMDGgL6AthitodHRwOi8vY3Jscy5w
+a2kuZ29vZy9ndHMxYzMvUU92SjBOMXNUMkEuY3JsMIIBBAYKKwYBBAHWeQIEAgSB
+9QSB8gDwAHUARqVV63X6kSAwtaKJafTzfREsQXS+/Um4havy/HD+bUcAAAGAqCnl
+RQAABAMARjBEAiB+vvuhaNrKYMHEjcubHkLgS7JkmICRokEonbT52AGC+gIgSJ0/
+r79ukq04Sp6z50+tALlOFd8bcjeppZi5TQ2T7bgAdwBRo7D1/QF5nFZtuDd4jwyk
+eswbJ8v3nohCmg3+1IsF5QAAAYCoKeMwAAAEAwBIMEYCIQCnq0LUkN/AbqqnZNSR
+PG+OnoP6IEqdHeSPIK38ge9bcwIhANu7mHgx2ON7yPvYDKibgKQgRPI5SXA3ZTyd
+nOwUO9tYMA0GCSqGSIb3DQEBCwUAA4IBAQCYNmt9t8OF3UFNc7h4Ru1tOmA8Chpj
+SSiJRM8ABDLuIkYIoAiSUYxlvW/EGfT6J0rBfTJEEJpAg414cCv2Qg95fyeFKbY7
+jgzji+v6t7EgdYFvZ2nK7+dulnn9E2K5m3mPawirD1w2wkpesIEQy+LT5PypvyyL
+D/3Qh9N2X09LWL1rMnQv6lJxiQy+3xoysM0nwuBdAUY6qsyBuq87no2yv5sMaNjS
+Mhhi2d6WDqmPXv/jWfBKZxGewR77ntecp/deY2jxkNeHgkWeUPt2T0mcZB5Ri92P
+1+KT8iS83ushXjpz7LGYwZWC3uB+fPAb2u2pVWzaZ5ShS1FaTVaV/rdS
+-----END CERTIFICATE-----
